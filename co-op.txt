@@ -214,3 +214,7 @@ List E: things to change to add another carrying sprite state
 0293B6 - Opt out of some interaction processing?
 02AC08 - Find the sprite mario is currently carrying for subscreen exit
 02AC1D - Carrying the sprite in the new level
+
+List F: Noah's TODO list
+- Add comments to the assembly source files. I have never really worked on a large SNES project, so this'll be interesting. Plus, adding comments will help me understand how the code works and how SMW works (along with other resources)
+- Fix vertical levels.
